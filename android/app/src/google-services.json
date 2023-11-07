@@ -1,0 +1,591 @@
+{
+  "project_info": {
+    "project_number": "476849697961",
+    "firebase_url": "https://myallapp-f9c13.firebaseio.com",
+    "project_id": "myallapp-f9c13",
+    "storage_bucket": "myallapp-f9c13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476849697961:android:a368a56b37ebc9144f65b8",
+        "android_client_info": {
+          "package_name": "com.divinetechs.danceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476849697961-s1a5bl0mat7ps4t4efbni95lc96i7641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLp0GKlwhrFBjRIEELxCvyVGj49_1VYw"
+        },
+        {
+          "current_key": "AIzaSyBlRhmMUEZACWClwItG97C-llEZ353APLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476849697961-mp93cmobo60tggji6cl0gts0uqt42tdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476849697961-hmmhjutkkjilcng8dgj5gu49tuuob4sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divinetechs.dtradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476849697961:android:21cb19d16735f09e4f65b8",
+        "android_client_info": {
+          "package_name": "com.divinetechs.dtnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476849697961-65qh5pdqmrd3fuvjqb8e477qdekbkbq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.dtnews",
+            "certificate_hash": "60d49b58f6e48481b391cca8396bf7127f3eb089"
+          }
+        },
+        {
+          "client_id": "476849697961-j2p7lnd04ovhp0ima381en79tmja3fr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.dtnews",
+            "certificate_hash": "cc7f066d68738d275f53e1f98681d737a7ca6f5a"
+          }
+        },
+        {
+          "client_id": "476849697961-n47ejtlkb8cofudl5s55uvlc14s7ajft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.dtnews",
+            "certificate_hash": "5467f8142a110682d04170a36f4e3de207db45e8"
+          }
+        },
+        {
+          "client_id": "476849697961-s1a5bl0mat7ps4t4efbni95lc96i7641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLp0GKlwhrFBjRIEELxCvyVGj49_1VYw"
+        },
+        {
+          "current_key": "AIzaSyBlRhmMUEZACWClwItG97C-llEZ353APLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476849697961-mp93cmobo60tggji6cl0gts0uqt42tdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476849697961-hmmhjutkkjilcng8dgj5gu49tuuob4sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divinetechs.dtradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476849697961:android:af4445d0d3f259b94f65b8",
+        "android_client_info": {
+          "package_name": "com.divinetechs.dtradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476849697961-o7d02itj886a701rm0kmifjnhcpqpgh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.dtradio",
+            "certificate_hash": "60d49b58f6e48481b391cca8396bf7127f3eb089"
+          }
+        },
+        {
+          "client_id": "476849697961-qc4tdj0qsshfqlk5p0v0e9jnnvj1lvat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.dtradio",
+            "certificate_hash": "5467f8142a110682d04170a36f4e3de207db45e8"
+          }
+        },
+        {
+          "client_id": "476849697961-tie9156kt1tuedpmovo7ao0hoah8e6pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.dtradio",
+            "certificate_hash": "cc7f066d68738d275f53e1f98681d737a7ca6f5a"
+          }
+        },
+        {
+          "client_id": "476849697961-s1a5bl0mat7ps4t4efbni95lc96i7641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLp0GKlwhrFBjRIEELxCvyVGj49_1VYw"
+        },
+        {
+          "current_key": "AIzaSyBlRhmMUEZACWClwItG97C-llEZ353APLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476849697961-mp93cmobo60tggji6cl0gts0uqt42tdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476849697961-hmmhjutkkjilcng8dgj5gu49tuuob4sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divinetechs.dtradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476849697961:android:cada782869263a004f65b8",
+        "android_client_info": {
+          "package_name": "com.divinetechs.dtweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476849697961-9fmd79j8968t4c693memjgdr2v9r9dk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.dtweb",
+            "certificate_hash": "5467f8142a110682d04170a36f4e3de207db45e8"
+          }
+        },
+        {
+          "client_id": "476849697961-pnge0c3lo7jcpq1q2614p0g5ksd8tvs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.dtweb",
+            "certificate_hash": "d8bfbd3bee8c67a1077b7231fa7157f10033dc9c"
+          }
+        },
+        {
+          "client_id": "476849697961-s1a5bl0mat7ps4t4efbni95lc96i7641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLp0GKlwhrFBjRIEELxCvyVGj49_1VYw"
+        },
+        {
+          "current_key": "AIzaSyBlRhmMUEZACWClwItG97C-llEZ353APLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476849697961-mp93cmobo60tggji6cl0gts0uqt42tdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476849697961-hmmhjutkkjilcng8dgj5gu49tuuob4sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divinetechs.dtradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476849697961:android:3158f6bc9532cb5e4f65b8",
+        "android_client_info": {
+          "package_name": "com.divinetechs.dtweblocal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476849697961-laodtsqf10ps0je45l6nnknja4m2ph1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.dtweblocal",
+            "certificate_hash": "5467f8142a110682d04170a36f4e3de207db45e8"
+          }
+        },
+        {
+          "client_id": "476849697961-s1a5bl0mat7ps4t4efbni95lc96i7641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLp0GKlwhrFBjRIEELxCvyVGj49_1VYw"
+        },
+        {
+          "current_key": "AIzaSyBlRhmMUEZACWClwItG97C-llEZ353APLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476849697961-mp93cmobo60tggji6cl0gts0uqt42tdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476849697961-hmmhjutkkjilcng8dgj5gu49tuuob4sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divinetechs.dtradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476849697961:android:ff7e1e44ca88107a4f65b8",
+        "android_client_info": {
+          "package_name": "com.divinetechs.ebooksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476849697961-iurn1a5rsdructho1qnq204kej2mqvtj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.ebooksapp",
+            "certificate_hash": "a9ad821a2c01b8996f4dfdec631809c5769072d7"
+          }
+        },
+        {
+          "client_id": "476849697961-s1a5bl0mat7ps4t4efbni95lc96i7641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLp0GKlwhrFBjRIEELxCvyVGj49_1VYw"
+        },
+        {
+          "current_key": "AIzaSyBlRhmMUEZACWClwItG97C-llEZ353APLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476849697961-mp93cmobo60tggji6cl0gts0uqt42tdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476849697961-hmmhjutkkjilcng8dgj5gu49tuuob4sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divinetechs.dtradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476849697961:android:c7e6df4cf4dbc1964f65b8",
+        "android_client_info": {
+          "package_name": "com.divinetechs.gotstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476849697961-s1a5bl0mat7ps4t4efbni95lc96i7641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLp0GKlwhrFBjRIEELxCvyVGj49_1VYw"
+        },
+        {
+          "current_key": "AIzaSyBlRhmMUEZACWClwItG97C-llEZ353APLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476849697961-mp93cmobo60tggji6cl0gts0uqt42tdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476849697961-hmmhjutkkjilcng8dgj5gu49tuuob4sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divinetechs.dtradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476849697961:android:b372a3276a5421ab",
+        "android_client_info": {
+          "package_name": "com.divinetechs.photoeditorpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476849697961-s1a5bl0mat7ps4t4efbni95lc96i7641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLp0GKlwhrFBjRIEELxCvyVGj49_1VYw"
+        },
+        {
+          "current_key": "AIzaSyBlRhmMUEZACWClwItG97C-llEZ353APLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476849697961-mp93cmobo60tggji6cl0gts0uqt42tdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476849697961-hmmhjutkkjilcng8dgj5gu49tuuob4sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divinetechs.dtradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476849697961:android:401228c306876193",
+        "android_client_info": {
+          "package_name": "com.divinetechs.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476849697961-5iouarvsdiduntkdhbb06kp56th21mv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.wallpaper",
+            "certificate_hash": "a9ad821a2c01b8996f4dfdec631809c5769072d7"
+          }
+        },
+        {
+          "client_id": "476849697961-s1a5bl0mat7ps4t4efbni95lc96i7641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLp0GKlwhrFBjRIEELxCvyVGj49_1VYw"
+        },
+        {
+          "current_key": "AIzaSyBlRhmMUEZACWClwItG97C-llEZ353APLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476849697961-mp93cmobo60tggji6cl0gts0uqt42tdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476849697961-hmmhjutkkjilcng8dgj5gu49tuuob4sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divinetechs.dtradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476849697961:android:10f72a1a14c7cb10",
+        "android_client_info": {
+          "package_name": "com.news_wp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476849697961-s1a5bl0mat7ps4t4efbni95lc96i7641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLp0GKlwhrFBjRIEELxCvyVGj49_1VYw"
+        },
+        {
+          "current_key": "AIzaSyBlRhmMUEZACWClwItG97C-llEZ353APLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476849697961-mp93cmobo60tggji6cl0gts0uqt42tdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476849697961-hmmhjutkkjilcng8dgj5gu49tuuob4sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divinetechs.dtradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476849697961:android:f4b310bf15ddc5474f65b8",
+        "android_client_info": {
+          "package_name": "com.status"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476849697961-s1a5bl0mat7ps4t4efbni95lc96i7641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLp0GKlwhrFBjRIEELxCvyVGj49_1VYw"
+        },
+        {
+          "current_key": "AIzaSyBlRhmMUEZACWClwItG97C-llEZ353APLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476849697961-mp93cmobo60tggji6cl0gts0uqt42tdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476849697961-hmmhjutkkjilcng8dgj5gu49tuuob4sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divinetechs.dtradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476849697961:android:a4812dc3eae8beed",
+        "android_client_info": {
+          "package_name": "com.videostatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476849697961-20s4aju3cnls5qdnsa926pffpstnj7pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.videostatus",
+            "certificate_hash": "5267576fc23b5b2ceca91846c142c98308fbcf2c"
+          }
+        },
+        {
+          "client_id": "476849697961-is58kgeg7f24u0fqri7oi5pppau4387r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.videostatus",
+            "certificate_hash": "e3177be3b55f216db07964989cde2b06a18afe59"
+          }
+        },
+        {
+          "client_id": "476849697961-phieddllujdccdiho9ic2f9nl59b1vc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.videostatus",
+            "certificate_hash": "a9ad821a2c01b8996f4dfdec631809c5769072d7"
+          }
+        },
+        {
+          "client_id": "476849697961-s1a5bl0mat7ps4t4efbni95lc96i7641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLp0GKlwhrFBjRIEELxCvyVGj49_1VYw"
+        },
+        {
+          "current_key": "AIzaSyBlRhmMUEZACWClwItG97C-llEZ353APLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476849697961-mp93cmobo60tggji6cl0gts0uqt42tdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476849697961-hmmhjutkkjilcng8dgj5gu49tuuob4sq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divinetechs.dtradio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
