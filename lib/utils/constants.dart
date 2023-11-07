@@ -33,7 +33,7 @@ const String appName = "Universal Web";
 
 // Bottom Menu configuration
 
-const bool bottomMenuHideShow = true;
+const bool bottomMenuHideShow = false;
 
 // First Menu
 const String firstMenu = "Home";
